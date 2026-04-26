@@ -23,7 +23,7 @@ from tqdm import tqdm
 # 三部影片配置：名称 + 豆瓣 Subject ID
 MOVIES = [
     {"name": "飞驰人生3",     "subject_id": "37311135"},
-    {"name": "镖人：风起大漠", "subject_id": "36474027"},
+    {"name": "镖人_风起大漠", "subject_id": "36474027"},
     {"name": "惊蛰无声",      "subject_id": "37242440"},
 ]
 
